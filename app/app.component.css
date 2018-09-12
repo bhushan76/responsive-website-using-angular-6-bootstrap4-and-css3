@@ -1,0 +1,282 @@
+.bgimg{
+
+
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../assets/img/body.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 650px;
+    
+    }
+    .headerset{
+    
+    padding-top: 260px;
+    box-sizing: border-box;
+    
+    }
+    .headerset h2{
+    
+    font-size: 32px;
+    
+    
+    
+    
+    
+    }
+    .headerset h1{
+    
+        font-size: 43px;
+        
+        
+        font-weight: bold;
+        
+        
+        }    
+    
+    
+    
+    
+    
+    .ourservices{
+    
+    padding: 100px 0px 60px;
+    height: 700px;
+    
+    }
+    
+    
+    
+    .ourservices h2{
+    
+    
+    font: outline;
+    font-size: 40px;
+    font-weight: bold;
+    }
+    
+    
+    .ourservices h1{
+    
+    
+        font: outline;
+        font-size: 50px;
+        font-weight: bold;
+        }
+        
+        
+    .rowset{
+    
+    margin: 80px 0px;
+    
+    }
+    
+    .imgsettings{
+        border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    
+    
+    }
+    
+    .fa-shopping-cart{
+    
+    
+    margin-top: 20px;
+    
+    }
+    
+    .fa-desktop{
+    
+    
+        margin-top: 20px;
+        
+        }
+    
+        .fa-user-secret{
+    
+    
+            margin-top: 20px;
+            
+            }
+    
+            .rowset p{
+    padding: 10px;
+    color: #6c757d!important;
+    
+            }
+            .rowset h2{
+    
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    
+            }
+    
+    
+    /* ///////////////////portfolio///////////////// */
+    
+    
+    .portfolio{
+    
+    height: 1100px;
+    width: 100%;
+    padding: 100px 0px 50px;
+    
+    
+    
+    
+    }
+    .portfolio h1{
+    
+    font-size: 50px;
+    font-weight: bold;
+    
+    
+    }
+    .card{
+    
+    margin-top: 40px;
+    
+    }
+    
+    
+    /* //////////////////////////////ourteam//////////////////// */
+    
+    
+    
+    .ourteam{
+    
+    height: 700px;
+    
+    padding: 100px 0px 60px;
+    
+    width: 100%
+    
+    }
+    
+    .ourteam h1{
+    
+        font-size: 50px;
+        font-weight: bold;
+        
+    
+    }
+    
+    .teamset{
+    
+    margin-top: 70px !important;
+    
+    
+    
+    
+    }
+    
+    
+    /* /////////////////////////////footer////////////////// */
+    
+    .footer{
+    
+    height: 50px;
+    
+    
+    }
+    
+    .footer h6{
+    
+    line-height: 50px;
+    
+    
+    }
+    
+    
+    /* /////////////////////responsive///////////// */
+    @media(min-width:992px){
+    
+    
+    
+    }
+    @media(min-width:768px) and (max-width:991px){
+    
+    
+    }
+    
+    @media(min-width:575px) and (max-width:767px){
+    
+    
+    
+    }
+    
+    
+    @media(min-width:480px) and (max-width:574px){
+    
+    
+    
+    
+    }
+    
+    @media(max-width:479){
+    
+        .headerset h2{
+    
+            font-size: 32px;
+            }
+            .headerset h1{
+            
+                font-size: 43px;
+                font-weight: bold;
+                }    
+            
+                .ourservices{
+    
+    
+                    height: 1200px;
+                    
+                    }
+                    .portfolio{
+    
+                        height: 8000px;
+                        }
+    
+    .ourteam{
+    
+    height: 1400px;
+    
+    }
+    
+    .portfolio h1{
+    
+        font-size: 50px;
+        font-weight: normal;
+        
+        
+        }
+    
+    
+                }
+    
+    
+    
+                .about{
+    
+                    height: 800px;
+                    width: 100%;
+                    padding: 100px 0px 50px;
+                    
+                    
+                    
+                    
+                    }
+                    .about h1{
+                    
+                    font-size: 50px;
+                    font-weight: bold;
+                    
+                    
+                    }
+                    .card{
+                    
+                    margin-top: 40px;
+                    
+                    }
+                    
+                    
